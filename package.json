@@ -1,0 +1,19 @@
+{
+  "name": "twitter_mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yuehanh/mern_twitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuehanh/mern_twitter/issues"
+  },
+  "homepage": "https://github.com/yuehanh/mern_twitter#readme"
+}
